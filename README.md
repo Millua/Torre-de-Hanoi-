@@ -1,5 +1,3 @@
-# Torre-de-Hanoi-
-jogo divertido e difícil /
 [index.html](https://github.com/user-attachments/files/23112316/index.html)
 import ThumbmarkjsThumbmarkjs from "https://esm.sh/@thumbmarkjs/thumbmarkjs";
 import SpeechkitSpeechkitAudioPlayer from "https://esm.sh/@speechkit/speechkit-audio-player";[script.js](https://github.com/user-attachments/files/23112328/script.js)
